@@ -2,6 +2,9 @@
 
 
 @section('content')
+
+{{-- {{ dd(date($trains[0]->orario_di_arrivo))}} --}}
+{{-- {{ dd(date(now()))}} --}}
 <table class="table">
     <thead>
       <tr>
